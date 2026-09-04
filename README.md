@@ -15,8 +15,7 @@ This browser features multi-tab management, built-in multi-language support (Eng
 * **🛡️ Built-in AdBlocker:** Intercepts network requests to block common tracking and advertisement domains.
 * **📑 Tab Management:**
   * Single-tab creation and a bulk tab opener to open multiple URLs at once.
-  * Dynamic tab titles with overflow truncation.
-* **💾 Session Persistence (`session.json`):** Saves open tabs, active index, and language preferences upon closing and restores them on startup.
+  * Dynamic tab titles with overflow truncation
 * **📺 Fullscreen Mode:** Native support for fullscreen media playback with auto-hiding toolbars.
 * **🌙 Dark Theme:** Clean, modern dark UI styling inspired by modern IDEs.
 
